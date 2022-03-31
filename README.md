@@ -1,15 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Laura-Geronimo/Laura-Geronimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ##My Interests:
 - Planning and public policy
 - Adaptation to coastal flood risk
 - Affordable and safe housing
 - Social equity and justice
+
+<!--
+**Laura-Geronimo/Laura-Geronimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 
 
 - 🔭 I’m currently working on ...
